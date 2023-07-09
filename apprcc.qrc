@@ -1,0 +1,37 @@
+<RCC>
+  <qresource prefix="imgs">
+    <file>images/下拉-黑.png</file>
+    <file>images/还原_黑色.png</file>
+    <file>images/暂停1.png</file>
+    <file>images/运行_黑.png</file>
+    <file>images/终止_黑.png</file>
+    <file>images/未选中_黑.png</file>
+    <file>images/单选选中_黑.png</file>
+    <file>images/摄像头_黑.png</file>
+    <file>images/打开_黑色.png</file>
+    <file>images/正方形_黑.png</file>
+    <file>images/最小化_黑.png</file>
+    <file>images/关闭_黑.png</file>
+    <file>images/background.jpg</file>
+    <file>images/button-off.png</file>
+    <file>images/button-on.png</file>
+    <file>images/hyy.png</file>
+    <file>images/vector.png</file>
+    <file>images/打开.png</file>
+    <file>images/关闭.png</file>
+    <file>images/还原.png</file>
+    <file>images/箭头_列表收起.png</file>
+    <file>images/箭头_列表展开.png</file>
+    <file>images/摄像头开.png</file>
+    <file>images/停止.png</file>
+    <file>images/下拉_白色.png</file>
+    <file>images/圆.png</file>
+    <file>images/运行.png</file>
+    <file>images/暂停.png</file>
+    <file>images/赞停.png</file>
+    <file>images/正方形.png</file>
+    <file>images/终止.png</file>
+    <file>images/最大化.png</file>
+    <file>images/最小化.png</file>
+  </qresource>
+</RCC>
