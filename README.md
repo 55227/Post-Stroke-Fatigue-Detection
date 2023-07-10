@@ -24,6 +24,7 @@
 + [base_process.py](train/base_process.py)：日志处理类
 + [base_provider.py](train/data_provider/base_provider.py)：自定义数据集
 + [test_provider.py](train/data_provider/test_provider.py)：自定义测试数据集
++ [network](train/network)/[network](network)：模型文件夹
 ## 参考代码
 + [C3D模型](https://github.com/jfzhang95/pytorch-video-recognition.git)
 + [UI界面](https://github.com/Javacr/PyQt5-YOLOv5.git)
