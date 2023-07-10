@@ -25,6 +25,10 @@
 + [base_provider.py](train/data_provider/base_provider.py)：自定义数据集
 + [test_provider.py](train/data_provider/test_provider.py)：自定义测试数据集
 + [network](train/network)/[network](network)：模型文件夹
++ [main.py](main.py)：卒中后疲劳识别系统入口
++ [login.py](login.py)：登陆界面
++ [win.py](win.py)：疲劳识别界面
++ [datasets.py](dataloaders/datasets.py)：用于实时卒中后疲劳识别的自定义数据集
 ## 参考代码
 + [C3D模型](https://github.com/jfzhang95/pytorch-video-recognition.git)
 + [UI界面](https://github.com/Javacr/PyQt5-YOLOv5.git)
