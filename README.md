@@ -4,6 +4,8 @@
 ![Image](imgs/疲劳检测界面.png)
 ## 运行环境
 详见[requirements.txt](requirements.txt)
+## 预训练权重文件
+预训练权重文件下载：[GoogleDrive](https://drive.google.com/file/d/1mdx4nfkFODHV8RXV8489CWlTY5yx1FK8/view?usp=drive_link)
 ## 代码运行
 ### 1 - 运行[generation_process.py](train/generation_process.py)
 数据预处理
@@ -13,3 +15,4 @@
 模型测试
 ### 4 - 运行[main.py](main.py)
 卒中后疲劳识别系统入口
+## 参考代码
