@@ -3,4 +3,4 @@
 ![Image](imgs/用户登陆界面.png)
 ![Image](imgs/疲劳检测界面.png)
 ## 代码运行
-### 1-运行[generation_process.py]()
+### 1-运行[generation_process.py](train/generation_process.py)
