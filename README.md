@@ -4,6 +4,8 @@
 ![Image](imgs/疲劳检测界面.png)
 ## 运行环境
 详见[requirements.txt](requirements.txt)
+## 系统测试视频
+https://www.bilibili.com/video/BV1cN411U7yh/?spm_id_from=333.999.0.0
 ## 预训练权重文件
 预训练权重文件下载：[GoogleDrive](https://drive.google.com/file/d/1mdx4nfkFODHV8RXV8489CWlTY5yx1FK8/view?usp=drive_link)
 ## 代码运行
