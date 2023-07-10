@@ -16,7 +16,13 @@
 ### 4 - 运行[main.py](main.py)
 卒中后疲劳识别系统入口
 ## 主要文件说明
-+ []
++ [generation_process.py](train/generation_process.py)：数据预处理
++ [mypath.py](train/mypath.py)：原始数据集、预处理后数据集、预训练文件路径配置
++ [utils.py](train/utils.py)：工具类或函数
++ [train.py](train/train.py)：模型训练
++ [inference.py](train/inference.py)：模型测试
++ [base_process.py](train/base_process.py)：日志处理类
++ 
 ## 参考代码
 + [C3D模型](https://github.com/jfzhang95/pytorch-video-recognition.git)
 + [UI界面](https://github.com/Javacr/PyQt5-YOLOv5.git)
