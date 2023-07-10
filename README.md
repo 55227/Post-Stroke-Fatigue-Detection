@@ -16,3 +16,4 @@
 ### 4 - 运行[main.py](main.py)
 卒中后疲劳识别系统入口
 ## 参考代码
++ [C3D模型](https://github.com/jfzhang95/pytorch-video-recognition.git)
